@@ -96,5 +96,6 @@ select * from teacher_log;
 
 delete from teachers where id = 10;
 
+-- displays the teachers and teachers_log tables
 select * from teachers;
 select * from teacher_log;
